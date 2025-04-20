@@ -15,7 +15,7 @@
   ## 👨‍💻 Quick Bio
   - 🎯 QA Engineer by day, Gamer by night
   - 🗡️ Currently playing: The Legend of Zelda: Tears of the Kingdom
-  - 🛠️ Use function calling to code some agent tools have fun 🥵
+  - 🛠️ Use function calling to code some agent tools for fun 🥵
   - 🌟 _"Perhaps one day, I shall truly fade from this place, like autumn leaves dissolving into the dusk."_ ✨
 
   ## 🎮 Gaming Platforms
@@ -66,9 +66,12 @@
     - 🖥️ Gaming PC Setup<br>
       &nbsp;&nbsp;&nbsp;&nbsp;• CPU: Ultra 9 275HX<br>
       &nbsp;&nbsp;&nbsp;&nbsp;• GPU: RTX 5080<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;• RAM: 32GB DDR6<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;• Storage: 1TB NVMe SSD
-  </details>
+      &nbsp;&nbsp;&nbsp;&nbsp;• RAM: 32GB DDR5<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;• Storage: 1TB NVMe SSD<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;• Display: Asus ROG Strix 27” 2K HDR Gaming Monitor (XG27AQM)<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;• Motherboard: Asus ROG MAXIMUS Z790 HERO<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;• Mouse: SteelSeries Prime Mini Wireless<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;• Keyboard: ROG Azoth Ace HFX<br>
 
   ## 📊 GitHub Stats
   <img src="https://github-readme-stats.vercel.app/api?username=Wayzinx&show_icons=true&theme=radical" alt="GitHub Stats"/>

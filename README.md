@@ -46,10 +46,10 @@
 - 🎮 Nintendo Switch OLED
 - 🎮 PlayStation 5
 - 🖥️ Gaming PC Setup
-  - CPU: Ryzen 7 5800X
-  - GPU: RTX 3070
-  - RAM: 32GB DDR4
-  - Storage: 2TB NVMe SSD
+  - CPU: Ultra 9 275HX
+  - GPU: RTX 5080
+  - RAM: 32GB DDR6
+  - Storage: 1TB NVMe SSD
 </details>
 
 ### 💻 Tech Stack

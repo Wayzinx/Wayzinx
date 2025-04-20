@@ -21,7 +21,7 @@
   - Final Fantasy VII Remake
   - Pokemon series
   <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=Wayzinx&show_icons=true&theme=radical](https://github.com/Wayzinx/Wayzinx/blob/main/pokemon.jpeg)" />
+  <img src="https://github.com/Wayzinx/Wayzinx/blob/main/pokemon.jpeg" />
   </div>
   - League of Legends
   - Super Mario series

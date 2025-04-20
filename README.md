@@ -20,9 +20,12 @@
   - The Legend of Zelda series
   - Final Fantasy VII Remake
   - Pokemon series
+  <div align="center">
+  <img src="[https://github-readme-stats.vercel.app/api?username=Wayzinx&show_icons=true&theme=radical](https://github.com/Wayzinx/Wayzinx/blob/main/pokemon.jpeg)" />
+  </div>
   - League of Legends
   - Super Mario series
-- 🛠️ Use function calling to code some agent tolls have fun 🥵
+- 🛠️ Use function calling to code some agent tools have fun 🥵
 - 🌟 "Perhaps one day, I shall truly fade from this place, like autumn leaves dissolving into the dusk." 😭
 
 </td>

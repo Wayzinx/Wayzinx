@@ -6,58 +6,54 @@
 <div align="left">
   <img src="https://profile-counter.glitch.me/Wayzinx/count.svg">
 </div>
+<div align="center">
+  <h1>🎮 About Me</h1>
+</div>
 
-### 🎮 About Me
+<div align="left">
+  <img align="right" width="400" src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif" style="border-radius: 10px; margin-left: 20px;"/>
 
-<table>
-<tr>
-<td>
-<img align="right" width="200" src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif"/>
+  ### 👨‍💻 Quick Bio
+  - 🎯 QA Engineer by day, Gamer by night
+  - 🗡️ Currently playing: The Legend of Zelda: Tears of the Kingdom
+  - 🛠️ Use function calling to code some agent tools have fun 🥵
+  - 🌟 _"Perhaps one day, I shall truly fade from this place, like autumn leaves dissolving into the dusk."_ ✨
+</div>
 
-- 🎯 QA Engineer by day, Gamer by night
-- 🗡️ Currently playing: The Legend of Zelda: Tears of the Kingdom
-<h3>🏆 Favorite Games</h3>
+<div align="center">
+  <h2>🏆 Favorite Games</h2>
+</div>
 
-<div style="margin: 20px 0">
-  <h4>The Legend of Zelda</h4>
-  <div align="center">
-    <img src="https://github.com/Wayzinx/Wayzinx/blob/main/zelda.jpeg" width="400" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.2); margin: 10px 0; transition: transform 0.3s ease;" />
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;">
+  <div style="text-align: center;">
+    <h3>The Legend of Zelda</h3>
+    <img src="https://github.com/Wayzinx/Wayzinx/blob/main/zelda.jpeg" width="100%" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.2); transition: transform 0.3s ease; max-width: 400px;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'"/>
+  </div>
+  
+  <div style="text-align: center;">
+    <h3>DeltaForce</h3>
+    <img src="https://github.com/Wayzinx/Wayzinx/blob/main/deltaforce.jpg" width="100%" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.2); transition: transform 0.3s ease; max-width: 400px;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'"/>
+  </div>
+  
+  <div style="text-align: center;">
+    <h3>Pokemon</h3>
+    <img src="https://github.com/Wayzinx/Wayzinx/blob/main/pikacu.jpeg" width="100%" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.2); transition: transform 0.3s ease; max-width: 400px;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'"/>
+  </div>
+  
+  <div style="text-align: center;">
+    <h3>League of Legends</h3>
+    <img src="https://github.com/Wayzinx/Wayzinx/blob/main/jinx.jpg" width="100%" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.2); transition: transform 0.3s ease; max-width: 400px;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'"/>
+  </div>
+  
+  <div style="text-align: center;">
+    <h3>Super Mario Series</h3>
+    <img src="https://github.com/Wayzinx/Wayzinx/blob/main/mario.jpg" width="100%" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.2); transition: transform 0.3s ease; max-width: 400px;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'"/>
   </div>
 </div>
 
-<div style="margin: 20px 0">
-  <h4>DeltaForce</h4>
-  <div align="center">
-    <img src="https://github.com/Wayzinx/Wayzinx/blob/main/deltaforce.jpg" width="400" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.2); margin: 10px 0; transition: transform 0.3s ease;" />
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wayzinx&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 10px; margin: 20px 0;"/>
 </div>
-
-<div style="margin: 20px 0">
-  <h4>Pokemon</h4>
-  <div align="center">
-    <img src="https://github.com/Wayzinx/Wayzinx/blob/main/pikacu.jpeg" width="400" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.2); margin: 10px 0; transition: transform 0.3s ease;" />
-  </div>
-</div>
-
-<div style="margin: 20px 0">
-  <h4>League of Legends</h4>
-  <div align="center">
-    <img src="https://github.com/Wayzinx/Wayzinx/blob/main/jinx.jpg" width="400" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.2); margin: 10px 0; transition: transform 0.3s ease;" />
-  </div>
-</div>
-
-<div style="margin: 20px 0">
-  <h4>Super Mario Series</h4>
-  <div align="center">
-    <img src="https://github.com/Wayzinx/Wayzinx/blob/main/mario.jpg" width="400" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.2); margin: 10px 0; transition: transform 0.3s ease;" />
-  </div>
-</div>
-- 🛠️ Use function calling to code some agent tools have fun 🥵
-- 🌟 "Perhaps one day, I shall truly fade from this place, like autumn leaves dissolving into the dusk." 😭
-
-</td>
-</tr>
-</table>
 
 ### 🎮 Gaming Stats
 

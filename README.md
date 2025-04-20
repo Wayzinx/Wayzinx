@@ -16,15 +16,42 @@
 
 - 🎯 QA Engineer by day, Gamer by night
 - 🗡️ Currently playing: The Legend of Zelda: Tears of the Kingdom
-- 🏆 Favorite games: 
-  - The Legend of Zelda series
-  - Final Fantasy VII Remake
-  - Pokemon series
+<h3>🏆 Favorite Games</h3>
+
+<div style="margin: 20px 0">
+  <h4>The Legend of Zelda</h4>
   <div align="center">
-  <img src="https://github.com/Wayzinx/Wayzinx/blob/main/pokemon.jpeg" />
+    <img src="https://github.com/Wayzinx/Wayzinx/blob/main/zelda.jpeg" width="400" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.2); margin: 10px 0; transition: transform 0.3s ease;" />
   </div>
-  - League of Legends
-  - Super Mario series
+</div>
+
+<div style="margin: 20px 0">
+  <h4>DeltaForce</h4>
+  <div align="center">
+    <img src="https://github.com/Wayzinx/Wayzinx/blob/main/deltaforce.jpg" width="400" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.2); margin: 10px 0; transition: transform 0.3s ease;" />
+  </div>
+</div>
+
+<div style="margin: 20px 0">
+  <h4>Pokemon</h4>
+  <div align="center">
+    <img src="https://github.com/Wayzinx/Wayzinx/blob/main/pikacu.jpeg" width="400" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.2); margin: 10px 0; transition: transform 0.3s ease;" />
+  </div>
+</div>
+
+<div style="margin: 20px 0">
+  <h4>League of Legends</h4>
+  <div align="center">
+    <img src="https://github.com/Wayzinx/Wayzinx/blob/main/jinx.jpg" width="400" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.2); margin: 10px 0; transition: transform 0.3s ease;" />
+  </div>
+</div>
+
+<div style="margin: 20px 0">
+  <h4>Super Mario Series</h4>
+  <div align="center">
+    <img src="https://github.com/Wayzinx/Wayzinx/blob/main/mario.jpg" width="400" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.2); margin: 10px 0; transition: transform 0.3s ease;" />
+  </div>
+</div>
 - 🛠️ Use function calling to code some agent tools have fun 🥵
 - 🌟 "Perhaps one day, I shall truly fade from this place, like autumn leaves dissolving into the dusk." 😭
 

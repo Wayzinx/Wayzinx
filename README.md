@@ -22,8 +22,8 @@
   - Pokemon series
   - League of Legends
   - Super Mario series
-- 🛠️ Testing tools I use: Selenium, Pytest, JMeter
-- 🌟 Fun fact: I name my test cases after video game characters!
+- 🛠️ Use function calling to code some agent tolls have fun 🥵
+- 🌟 "Perhaps one day, I shall truly fade from this place, like autumn leaves dissolving into the dusk." 😭
 
 </td>
 </tr>

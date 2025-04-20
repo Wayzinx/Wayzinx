@@ -4,7 +4,7 @@
 
 <!-- 访问计数器 -->
 <div align="left">
-  <img src="https://profile-counter.glitch.me/your-username/count.svg">
+  <img src="https://profile-counter.glitch.me/Wayzinx/count.svg">
 </div>
 
 ### 🎮 About Me

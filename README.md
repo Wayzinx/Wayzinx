@@ -32,7 +32,7 @@
 ### 🎮 Gaming Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wayzinx&show_icons=true&theme=radical" />
 </div>
 
 ### 🏆 Gaming Achievements
@@ -64,11 +64,11 @@
 <!-- 你原有的贡献图表和其他统计信息可以保留在这里 -->
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wayzinx&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
 <!-- 保留你原有的蛇形贡献图 -->
-<img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" width="100%">
+<img src="https://github.com/Wayzinx/Wayzinx/blob/output/github-contribution-grid-snake.svg" width="100%">
 
 ### 📫 Connect With Me
 <p>

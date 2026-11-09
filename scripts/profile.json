@@ -1,0 +1,57 @@
+{
+  "login": "Wayzinx",
+  "name": "WAYZINX",
+  "class": "QA ENGINEER · AGENT SMITH",
+  "taglines": ["> QA ENGINEER BY DAY", "> GAMER BY NIGHT", "> ALL IN AGENT"],
+  "attributes": [
+    {"name": "BUG HUNTING", "value": 9},
+    {"name": "AGENT CRAFT", "value": 9},
+    {"name": "AUTOMATION", "value": 8},
+    {"name": "GAMING", "value": 10, "note": "MAX"},
+    {"name": "SLEEP", "value": 2, "note": "LOW!"}
+  ],
+  "platforms": [
+    {"name": "NINTENDO", "color": "#e60012"},
+    {"name": "PLAYSTATION", "color": "#003791"},
+    {"name": "STEAM", "color": "#171a21"}
+  ],
+  "equipment": [
+    {"slot": "MAIN HAND", "item": "RTX 5080 RIG", "rarity": "legendary"},
+    {"slot": "OFF HAND", "item": "SWITCH OLED", "rarity": "epic"},
+    {"slot": "MOUNT", "item": "PLAYSTATION 5", "rarity": "epic"},
+    {"slot": "TRINKET", "item": "ROG AZOTH ACE HFX", "rarity": "rare"},
+    {"slot": "TRINKET", "item": "PRIME MINI WIRELESS", "rarity": "rare"}
+  ],
+  "now_playing": "The Legend of Zelda: Tears of the Kingdom",
+  "side_quest": "coding agent tools with function calling, for fun",
+  "quests": [
+    {"repo": "taktflow", "type": "main"},
+    {"repo": "interview-review", "type": "side"},
+    {"repo": "tiyan-algo", "type": "side"},
+    {"repo": "browser-nav-assistant", "type": "side"},
+    {"repo": "astrbot-food-recommender", "type": "side", "blurb": "AstrBot 食物推荐插件：按时间、天气和季节推荐吃什么，AI 生成食物图片和推荐理由"},
+    {"repo": "Volcengine-Text-to-image", "type": "side", "blurb": "AstrBot 文生图插件：火山引擎视觉 API 出图，自然语言对话即可触发画图"}
+  ],
+  "games": [
+    {"cover": "zelda", "title": "ZELDA", "platform": "SWITCH", "color": "#3fae49", "now": true},
+    {"cover": "deltaforce", "title": "DELTA FORCE", "platform": "PC", "color": "#ff8a3d"},
+    {"cover": "pokemon", "title": "POKEMON", "platform": "SWITCH", "color": "#ffd319"},
+    {"cover": "lol", "title": "LEAGUE", "platform": "PC", "color": "#2d8cf0"},
+    {"cover": "mario", "title": "MARIO", "platform": "SWITCH", "color": "#e60012"}
+  ],
+  "loadout": [
+    {"icon": "python", "name": "PYTHON", "color": "#ffd43b", "rarity": "legendary"},
+    {"icon": "typescript", "name": "TYPESCRIPT", "color": "#3178c6", "rarity": "epic"},
+    {"icon": "javascript", "name": "JAVASCRIPT", "color": "#f7df1e", "rarity": "rare"},
+    {"icon": "swift", "name": "SWIFT", "color": "#f05138", "rarity": "rare"},
+    {"icon": "selenium", "name": "SELENIUM", "color": "#43b02a", "rarity": "epic"},
+    {"icon": "jenkins", "name": "JENKINS", "color": "#d24939", "rarity": "rare"},
+    {"icon": "git", "name": "GIT", "color": "#f05032", "rarity": "epic"},
+    {"icon": "githubactions", "name": "ACTIONS", "color": "#2088ff", "rarity": "rare"},
+    {"icon": "claude", "name": "CLAUDE", "color": "#d97757", "rarity": "legendary"},
+    {"icon": "openai", "name": "CODEX", "color": "#ffffff", "rarity": "epic"},
+    {"icon": "deepseek", "name": "DEEPSEEK", "color": "#4d6bfe", "rarity": "epic"},
+    {"icon": "modelcontextprotocol", "name": "MCP", "color": "#ffffff", "rarity": "legendary"}
+  ],
+  "quote": ["Perhaps one day, I shall truly fade from this place,", "like autumn leaves dissolving into the dusk."]
+}

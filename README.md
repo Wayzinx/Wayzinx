@@ -1,92 +1,89 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+gaming+world!;I'm+a+QA+Engineer+%26+Game+Enthusiast&center=true&size=27">
-</div>
+<!-- Cards are rendered by scripts/build.py (content in scripts/profile.json).
+     assets/*.svg are static; output-branch cards are rebuilt every 6h by .github/workflows/profile.yml -->
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Wayzinx/count.svg">
+
+<img src="assets/hero.svg" width="100%" alt="WAYZINX — QA engineer by day, gamer by night, all in agent"/>
+
+<a href="https://github.com/Wayzinx"><img src="https://komarev.com/ghpvc/?username=Wayzinx&label=PLAYERS%20JOINED&color=ff2e88&style=for-the-badge" alt="profile views"/></a>
+<a href="https://wayzinx.github.io/tiyan-algo/"><img src="https://img.shields.io/badge/%E2%96%B6%20PLAY-%E9%A2%98%E7%9C%BC%E7%AE%97%E6%B3%95%E9%99%AA%E7%BB%83-2de2e6?style=for-the-badge&labelColor=120c2a" alt="Play 题眼算法陪练"/></a>
+
 </div>
 
-<div align="center">
-  
-  # 🎮 About Me
-  
-  <img align="right" width="400" src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif"/>
+<img src="assets/h-player.svg" width="100%" alt="PLAYER 1"/>
 
-  ## 👨‍💻 Quick Bio
-  - 🎯 QA Engineer by day, Gamer by night
-  - 🗡️ Currently playing: The Legend of Zelda: Tears of the Kingdom
-  - 🛠️ Use function calling to code some agent tools for fun 🥵
-  - 🌟 _"Perhaps one day, I shall truly fade from this place, like autumn leaves dissolving into the dusk."_ ✨
+<img src="https://raw.githubusercontent.com/Wayzinx/Wayzinx/output/player.svg" width="100%" alt="Player status — QA engineer by day, gamer by night, coding agent tools with function calling for fun. Now playing: The Legend of Zelda: Tears of the Kingdom"/>
 
-  ## 🎮 Gaming Platforms
-  ![Nintendo](https://img.shields.io/badge/Nintendo-E60012?style=for-the-badge&logo=nintendo&logoColor=white)
-  ![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
-  ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-</div>
+<img src="assets/h-quests.svg" width="100%" alt="QUEST LOG"/>
 
-<div align="center">
-  
-  # 🏆 Favorite Games
-  
-  <table>
-    <tr>
-      <td align="center">
-        <h3>The Legend of Zelda</h3>
-        <img src="https://github.com/Wayzinx/Wayzinx/blob/main/zelda.jpeg" width="400"/>
-      </td>
-      <td align="center">
-        <h3>DeltaForce</h3>
-        <img src="https://github.com/Wayzinx/Wayzinx/blob/main/deltaforce.jpg" width="400"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h3>Pokemon</h3>
-        <img src="https://github.com/Wayzinx/Wayzinx/blob/main/pikacu.jpeg" width="400"/>
-      </td>
-      <td align="center">
-        <h3>League of Legends</h3>
-        <img src="https://github.com/Wayzinx/Wayzinx/blob/main/jinx.jpg" width="400"/>
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <a href="https://github.com/Wayzinx/taktflow"><img src="https://raw.githubusercontent.com/Wayzinx/Wayzinx/output/quest-taktflow.svg" width="49%" alt="taktflow"/></a>
+  <a href="https://github.com/Wayzinx/interview-review"><img src="https://raw.githubusercontent.com/Wayzinx/Wayzinx/output/quest-interview-review.svg" width="49%" alt="interview-review"/></a>
+  <a href="https://github.com/Wayzinx/tiyan-algo"><img src="https://raw.githubusercontent.com/Wayzinx/Wayzinx/output/quest-tiyan-algo.svg" width="49%" alt="tiyan-algo"/></a>
+  <a href="https://github.com/Wayzinx/browser-nav-assistant"><img src="https://raw.githubusercontent.com/Wayzinx/Wayzinx/output/quest-browser-nav-assistant.svg" width="49%" alt="browser-nav-assistant"/></a>
+  <a href="https://github.com/Wayzinx/astrbot-food-recommender"><img src="https://raw.githubusercontent.com/Wayzinx/Wayzinx/output/quest-astrbot-food-recommender.svg" width="49%" alt="astrbot-food-recommender"/></a>
+  <a href="https://github.com/Wayzinx/Volcengine-Text-to-image"><img src="https://raw.githubusercontent.com/Wayzinx/Wayzinx/output/quest-volcengine-text-to-image.svg" width="49%" alt="Volcengine-Text-to-image"/></a>
+</p>
 
-  ## 💻 Tech Stack
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+<img src="assets/h-library.svg" width="100%" alt="GAME LIBRARY"/>
 
-  ## 🎮 Gaming Setup
-  <details>
-    <summary>Click to expand</summary>
-    <br>
-    - 🎮 Nintendo Switch OLED<br>
-    - 🎮 PlayStation 5<br>
-    - 🖥️ Gaming PC Setup<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;• CPU: Ultra 9 275HX<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;• GPU: RTX 5080<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;• RAM: 32GB DDR5<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;• Storage: 1TB NVMe SSD<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;• Display: Asus ROG Strix 27” 2K HDR Gaming Monitor (XG27AQM)<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;• Motherboard: Asus ROG MAXIMUS Z790 HERO<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;• Mouse: SteelSeries Prime Mini Wireless<br>
-      &nbsp;&nbsp;&nbsp;&nbsp;• Keyboard: ROG Azoth Ace HFX<br>
+<img src="assets/library.svg" width="100%" alt="Favorite games: The Legend of Zelda (now playing), Delta Force, Pokémon, League of Legends, Super Mario"/>
 
-  ## 📊 GitHub Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=Wayzinx&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  
-  ## 📈 Contribution Graph
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wayzinx&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-  
-  ## 🐍 Contribution Snake
-  <img src="https://github.com/Wayzinx/Wayzinx/blob/output/github-contribution-grid-snake.svg" width="100%">
+<img src="assets/h-scores.svg" width="100%" alt="HIGH SCORES"/>
 
-  ## 📫 Connect With Me
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-</div>
+<img src="https://raw.githubusercontent.com/Wayzinx/Wayzinx/output/stats.svg" width="100%" alt="GitHub stats and top languages"/>
+
+<img src="assets/h-arcade.svg" width="100%" alt="ARCADE"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wayzinx/Wayzinx/output/pacman-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/Wayzinx/Wayzinx/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man eating my contribution graph">
+</picture>
+
+<details>
+<summary><b>🕹️ INSERT COIN — more games on my contribution graph</b></summary>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wayzinx/Wayzinx/output/galaga-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/Wayzinx/Wayzinx/output/galaga-contribution-graph.svg" width="100%" alt="Galaga">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wayzinx/Wayzinx/output/tetris-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/Wayzinx/Wayzinx/output/tetris-contribution-graph.svg" width="100%" alt="Tetris">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wayzinx/Wayzinx/output/breakout-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/Wayzinx/Wayzinx/output/breakout-contribution-graph.svg" width="100%" alt="Breakout">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wayzinx/Wayzinx/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Wayzinx/Wayzinx/output/github-contribution-grid-snake.svg" width="100%" alt="Snake">
+</picture>
+
+</details>
+
+<img src="assets/h-loadout.svg" width="100%" alt="LOADOUT"/>
+
+<img src="assets/loadout.svg" width="100%" alt="Python, TypeScript, JavaScript, Swift, Selenium, Jenkins, Git, GitHub Actions, Claude, Codex, DeepSeek, MCP"/>
+
+<details>
+<summary><b>🖥️ Full battle-station specs</b></summary>
+<br>
+
+| Slot | Gear |
+| --- | --- |
+| 🎮 Handheld | Nintendo Switch OLED |
+| 🎮 Console | PlayStation 5 |
+| 🧠 CPU | Ultra 9 275HX |
+| 🎨 GPU | RTX 5080 |
+| ⚡ RAM | 32GB DDR5 |
+| 💾 Storage | 1TB NVMe SSD |
+| 🖥️ Display | Asus ROG Strix 27" 2K HDR Gaming Monitor (XG27AQM) |
+| 🧩 Motherboard | Asus ROG MAXIMUS Z790 HERO |
+| 🖱️ Mouse | SteelSeries Prime Mini Wireless |
+| ⌨️ Keyboard | ROG Azoth Ace HFX |
+
+</details>
+
+<img src="assets/footer.svg" width="100%" alt="“Perhaps one day, I shall truly fade from this place, like autumn leaves dissolving into the dusk.” — Thanks for playing"/>

@@ -49,8 +49,8 @@
   <img src="https://raw.githubusercontent.com/Wayzinx/Wayzinx/output/galaga-contribution-graph.svg" width="100%" alt="Galaga">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wayzinx/Wayzinx/output/tetris-contribution-graph-dark.svg">
-  <img src="https://raw.githubusercontent.com/Wayzinx/Wayzinx/output/tetris-contribution-graph.svg" width="100%" alt="Tetris">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wayzinx/Wayzinx/output/bomberman-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/Wayzinx/Wayzinx/output/bomberman-contribution-graph.svg" width="100%" alt="Bomberman">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wayzinx/Wayzinx/output/breakout-contribution-graph-dark.svg">

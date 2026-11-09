@@ -26,7 +26,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@v5.0.0
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: pacman,galaga,tetris,breakout
+          games: pacman,galaga,bomberman,breakout
 
       - name: Snake
         uses: Platane/snk@v3
